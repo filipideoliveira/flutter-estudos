@@ -173,7 +173,7 @@ Valor estimado do seguro:
 R\$ ${valorSeguro.toStringAsFixed(2)} por ano.
 ''';
   }
-  
+
   Future<void> enviarWhatsApp() async {
     const telefone = '5511961770865';
 
